@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msz89
 - ⚡ I’m interested in energy
-- 🌱 I’m currently learning to build webapps
+- 🌱 I’m currently doing a lot of data science in Australia's Energy Market
 
 
 <!---
