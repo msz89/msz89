@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msz89
+- 👋 Hi, I’m Matt
 - ⚡ I’m interested in energy
 - 🌱 I’m currently doing a lot of data science in Australia's Energy Market
 
